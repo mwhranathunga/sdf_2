@@ -3,6 +3,8 @@
 
 int main()
 {
+    //Hello there!
+    
     int amount;// using int because withdrawal amounts are whole numbers without decimals
     int notes5000, notes1000;// using int because currency bills can only be counted as whole units
     int remaining;// using int because remaining is a whole number
